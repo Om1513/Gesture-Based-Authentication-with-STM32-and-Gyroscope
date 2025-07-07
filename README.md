@@ -95,10 +95,6 @@ platformio device monitor
 
 Want to build gesture-based passwords into your own projects or help optimize the DTW performance? PRs and forks welcome.
 
-## 📄 License
-
-MIT (or insert your preferred license here)
-
 ## 🛠️ Future Improvements
 
 - Save passkeys to flash for persistence
